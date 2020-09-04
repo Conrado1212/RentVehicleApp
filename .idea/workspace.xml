@@ -7,6 +7,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1h0c8bJr5Wd6j7IwxpHtdeWXmPO" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
@@ -16,7 +19,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/RentApp" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -30,6 +33,7 @@
       <updated>1599151291066</updated>
       <workItem from="1599151293235" duration="49000" />
       <workItem from="1599151497270" duration="343000" />
+      <workItem from="1599237762099" duration="24000" />
     </task>
     <servers />
   </component>
@@ -37,10 +41,10 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1466" y="443" key="FileChooserDialogImpl" timestamp="1599151568808">
+    <state x="1466" y="443" key="FileChooserDialogImpl" timestamp="1599237784715">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1466" y="443" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1599151568808" />
+    <state x="1466" y="443" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1599237784715" />
     <state x="1351" y="446" key="NewModule_or_Project.wizard" timestamp="1599151581166">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
